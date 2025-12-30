@@ -10,7 +10,7 @@
 ---
 
 ## Project Overview
-This repository contains the implementation of a **Snake Game using Arduino**, developed as part of the **EW-1 course project** in the Monsson 2024 semester @ IIIT Hyderabad
+This repository contains the implementation of a **Snake Game using Arduino**, developed as part of the **EW-1 course project** in the Monsson 2024 semester @ IIIT Hyderabad.
 The project includes the complete Arduino code, performance tests, report, and demonstration video.
 
 ---
